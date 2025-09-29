@@ -1,0 +1,4 @@
+Tutorial:
+https://www.youtube.com/watch?v=LOhfqjmasi0
+
+The difference is the slimes are affected by gravity and will avoid walking off ledges
